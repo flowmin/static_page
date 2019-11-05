@@ -139,4 +139,6 @@ exclude:            [vendor]
     Training
     Blog
     About
+    
+    encoding: UTF-8
 
