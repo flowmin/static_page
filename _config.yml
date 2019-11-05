@@ -66,7 +66,7 @@ disqus:
   id:               "kiko-plus"
 
 #theme
-remote_theme    : "aweekj/Kiko-plus"
+remote_theme: "aweekj/Kiko-plus"
 
 # URL
 url:                "https://flowmin.github.io" # the base hostname & protocol for your site
